@@ -7,10 +7,6 @@ My Python revision practice for my AI Engineer roadmap.
 - Strings
 - Lists and Tuples
 - Sets and Dictionaries
-- Functions
-- Iterators and Generators
-- Object-Oriented Programming
-- Exception Handling
 
 ## Workflow
-I solve and test each problem in VS Code, submit it on HackerRank, and push the final solution to GitHub. 
+I solve and test each problem in VS Code, submit it on HackerRank, and push the final solution to GitHub.  
